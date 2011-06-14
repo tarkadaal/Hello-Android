@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, HelloAndroid, Hello Baby, Hello my darling, Hello my ragtime gal!</string>
     <string name="app_name">Hello, Android</string>
+    <string name="test_string">This is a test string, you can call this a test pattern</string>
 </resources>
